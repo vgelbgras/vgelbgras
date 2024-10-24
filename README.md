@@ -59,7 +59,7 @@ Focused on driving automation and CI/CD efficiency while collaborating with cros
    <img align=center width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgelbgras&layout=donut-vertical"/>
   <img align=center width="60%" src="https://github-readme-stats.vercel.app/api?username=vgelbgras&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
   <br/>
-  <img align=center width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=vgelbgrasa&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+  <img align=center width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=vgelbgras&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
   <br/>
   <br/>
 <!--   <img align=center src="https://github-readme-activity-graph.cyclic.app/graph?username=vgelbgras&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
