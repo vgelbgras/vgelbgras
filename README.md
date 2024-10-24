@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋,  I'm Valérie Gelbgras
 
 <!--
 **valerie-gelbgras/valerie-gelbgras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## A little bit about myself.. 👋😁
+I am a passionate **DevOps Engineer** with a strong background in software development, simulation engineering, and automation. I specialize in building robust CI/CD pipelines, infrastructure automation, and streamlining development processes to drive efficiency and productivity. With experience across a wide range of DevOps tools and cloud platforms, I thrive in complex environments and enjoy learning and implementing new technologies.
 
-My name is [**Valérie Gelbgras**](https://www.linkedin.com/in/valeriegelbgras/). I am a DevOps Engineer. I am currently working for [Ansys](https://www.ansys.com/), more specifically for the Clould, Solution and Enablement Business Unit.
-Looking forward to talking to you all!
+
+## 🔧 Skills & Expertise:
+- **DevOps:** CI/CD, Cloud services (Azure), Containerization
+- **Automation:** Infrastructure as Code (IaC) with GitHub Codespaces, Ansible
+- **Programming:** Python, C#, C/C++, Bash, Powershell
+- **Software Development:** Agile (Kanban, Scrum), Microservices (FastAPI, Flask), Testing (pytest)
+- **Engineering:** ANSYS Suite, HPC, Computational Fluid Dynamics (CFD)
+- **Tools:** Git, GitHub, Visual Studio, VS Code, OpenTelemetry for observability
+
+## 💼 Current Role:
+**Lead DevOps Engineer** at ANSYS Inc.  
+Focused on driving automation and CI/CD efficiency while collaborating with cross-functional teams to implement DevOps best practices.
+
+## 📚 Education:
+- Ph.D. in Engineering Sciences (Process Engineering) – ULB, Brussels
+- Master in Bioengineering: Chemistry and Bio-industry – ULB, Brussels
+
+## 🌍 Languages:
+- French (Native)
+- English (Full Professional Proficiency)
+
 
 ## :handshake: Connect with me!
 
